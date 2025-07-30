@@ -2,7 +2,7 @@
 
 Welcome to the **ADmyBRAND AI Suite** – a beautifully crafted SAAS landing page for an AI-powered marketing platform, built using **Next.js 14+**, **TypeScript**, and **Tailwind CSS**.
 
-> 🚀 Live Demo: [https://admybrand.vercel.app](https://admybrand.vercel.app)  
+> 🚀 Live Demo: [https://admybrand-zeta.vercel.app/](https://admybrand-zeta.vercel.app/)  
 > 📦 GitHub Repo: [github.com/tanishqpandey26/admybrand](https://github.com/tanishqpandey26/admybrand)
 
 ---
@@ -90,15 +90,15 @@ This project demonstrates a professional-grade landing page designed to showcase
    git clone https://github.com/tanishqpandey26/pingverse.git
 
 2. **Install dependencies**
-   cd pingverse
-   npm install
+-   cd pingverse
+-   npm install
 
 3. **Run the development server**
-   npm run dev
+-   npm run dev
 
 4. **Visit http://localhost:3000 in your browser**
 
 
 For Feedback please contact
- -- Email - tanishqpandeyofficial@gmail.com
- -- Linkedin -https://www.linkedin.com/in/pandey26tanishq/
+- -- Email - tanishqpandeyofficial@gmail.com
+- -- Linkedin -https://www.linkedin.com/in/pandey26tanishq/
