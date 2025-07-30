@@ -13,7 +13,7 @@ export const Navbar = async () => {
       <MaxWidthWrapper>
         <div className="flex h-16 items-center justify-between">
           <Link href="/" className="flex z-40 font-semibold">
-            ADmyBRAND<span className="text-brand-700">AI Suite</span>
+            ADmyBRAND<span className="text-brand-700">AI</span>
           </Link>
 
           <div className="h-full flex items-center space-x-4">
