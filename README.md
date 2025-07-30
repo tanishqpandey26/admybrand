@@ -1,9 +1,9 @@
 # ADmyBRAND AI Suite – AI-Powered Marketing Tool 🌟
 
-Welcome to the **ADmyBRAND AI Suite** – a beautifully crafted fictional landing page for an AI-powered marketing platform, built using **Next.js 14+**, **TypeScript**, and **Tailwind CSS**.
+Welcome to the **ADmyBRAND AI Suite** – a beautifully crafted SAAS landing page for an AI-powered marketing platform, built using **Next.js 14+**, **TypeScript**, and **Tailwind CSS**.
 
-> 🚀 Live Demo: [https://pingverse.vercel.app](https://pingverse.vercel.app)  
-> 📦 GitHub Repo: [github.com/tanishqpandey26/pingverse](https://github.com/tanishqpandey26/pingverse)
+> 🚀 Live Demo: [https://admybrand.vercel.app](https://admybrand.vercel.app)  
+> 📦 GitHub Repo: [github.com/tanishqpandey26/admybrand](https://github.com/tanishqpandey26/admybrand)
 
 ---
 
