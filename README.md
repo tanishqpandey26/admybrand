@@ -72,12 +72,12 @@ This project demonstrates a professional-grade landing page designed to showcase
 
 ## 📂 Folder Structure
 
-└── public
-/src
-└── app 
-└── components/ # Reusable UI components
-    --- ui 
-└── utils/ # Helper functions
+- └── public
+- /src
+- └── app 
+- └── components/ # Reusable UI components
+-    --- ui 
+- └── utils/ # Helper functions
 
 
 
